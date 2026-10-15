@@ -1,13 +1,3 @@
-# Suggested Repository Descriptions / Descrições Sugeridas para o Repositório
-
-> **GitHub About Description (English):**
-> Presentation and study material on People Management: Objectivity, Subjectivity, Theoretical Approaches, and Soft vs. Hard HR Versions.
-
-> **Descrição Sobre o Repositório (Português):**
-> Apresentação e material de estudo sobre Gestão com Pessoas: Objetividade, Subjetividade, Abordagens Teóricas e Versões Leve e Pesada do RH.
-
----
-
 # English Version
 
 # People Management: Objectivity and Subjectivity
